@@ -4,6 +4,8 @@
 ########       Technometrics paper    #########
 ###############################################
 
+# This function applies Robust BIC to choose the parameters for the regression function
+
 #breakdown_p = round(nsamples*(1-alpha))
 
 
