@@ -5,8 +5,10 @@
 ########       Technometrics paper    #########
 ###############################################
 
+# This file applies a Robust FLR model building a simulation where outliers are introduced where the relationship between predictors
+# and response functions differ. 
 
-.libPaths("C:/Users/hullait/Documents/R/win-library/3.2")
+#.libPaths("C:/Users/hullait/Documents/R/win-library/3.2")
 
 # Required packages 
 library('MASS')
