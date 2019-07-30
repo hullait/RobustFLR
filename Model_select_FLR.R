@@ -6,7 +6,7 @@
 
 #breakdown_p = round(nsamples*(1-alpha))
 
-
+# This code chooses parameters for Robust FLR model 
 #### Models selection using BIC and RBIC ####
 
 Model_select_FLR = function(Sim_output, max_number){
